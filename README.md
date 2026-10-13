@@ -4,6 +4,10 @@ A web app that reads a resume PDF, scores it out of 100, shows what is missing, 
 
 Built with Python and Streamlit.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-resume-analyzer9.streamlit.app/)
+
+**Live demo:** https://ai-resume-analyzer9.streamlit.app/
+
 ## What it does
 
 Upload a resume as a PDF and the app gives you:
